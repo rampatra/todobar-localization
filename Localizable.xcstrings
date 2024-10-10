@@ -809,6 +809,12 @@
             "state" : "translated",
             "value" : "默认截止日期"
           }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predvolený termín"
+          }
         }
       }
     },
@@ -2069,6 +2075,12 @@
             "value" : "Настройки..."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavenia..."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2095,6 +2107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показать количество незавершенных задач в строке меню"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobraziť počet čakajúcich úloh na ponukovej lište"
           }
         },
         "zh-Hans" : {
@@ -2125,6 +2143,12 @@
             "value" : "Показать следующую отложенную задачу в строке меню"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobraziť ďalšiu čakajúcu úlohu na ponukovej lište"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2151,6 +2175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Социальный"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sociálne"
           }
         },
         "zh-Hans" : {
@@ -2181,6 +2211,12 @@
             "value" : "Начать с входа в систему"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spustiť pri prihlásení"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2209,6 +2245,12 @@
             "value" : "Этот значок появится в строке меню."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tento symbol sa zobrazí na ponukovej lište."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2235,6 +2277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To-do"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úloha"
           }
         },
         "zh-Hans" : {
@@ -2349,6 +2397,12 @@
             "value" : "Type"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2375,6 +2429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отменить Все Сделано"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušiť všetko hotové"
           }
         },
         "zh-Hans" : {
@@ -2406,6 +2466,12 @@
             "value" : "Используйте приложение еще несколько дней, чтобы увидеть более красивый график."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Použite aplikáciu ešte niekoľko dní, aby ste videli peknejší graf."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2434,6 +2500,12 @@
             "value" : "Размер окна"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veľkosť okna"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2460,6 +2532,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Написать отзыв"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napísať recenziu"
           }
         },
         "zh-Hans" : {
