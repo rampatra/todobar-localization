@@ -512,6 +512,40 @@
         }
       }
     },
+    "By default, completed tasks are hidden the next day." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standardmäßig werden abgeschlossene Aufgaben am nächsten Tag ausgeblendet."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por defecto, las tareas completadas se ocultan al día siguiente."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "По умолчанию выполненные задачи скрываются на следующий день."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predvolene sú dokončené úlohy skryté nasledujúci deň."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认情况下，已完成的任务在第二天被隐藏。"
+          }
+        }
+      }
+    },
     "Cancel" : {
       "localizations" : {
         "de" : {
@@ -804,16 +838,16 @@
             "value" : "Крайний срок по умолчанию"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "默认截止日期"
-          }
-        },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Predvolený termín"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认截止日期"
           }
         }
       }
@@ -1514,6 +1548,40 @@
         }
       }
     },
+    "Hide the completed tasks right away" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die abgeschlossenen Aufgaben sofort ausblenden"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar las tareas completadas de inmediato"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скройте выполненные задачи прямо сейчас"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skryť dokončené úlohy ihneď"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即隐藏已完成的任务"
+          }
+        }
+      }
+    },
     "History" : {
       "localizations" : {
         "de" : {
@@ -1739,6 +1807,12 @@
             "value" : "Нет выполненных задач за выбранную продолжительность времени."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žiadne dokončené úlohy v zvolenom časovom období."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1816,6 +1890,36 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Уведомить за %lld минут до дедлайна"
+                }
+              }
+            }
+          }
+        },
+        "sk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Upozorniť %lld minúty pred termínom"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Upozorniť %lld minút pred termínom"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Upozorniť %lld minútu pred termínom"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Upozorniť %lld minút pred termínom"
                 }
               }
             }
@@ -1991,6 +2095,12 @@
             "value" : "Установите ограничение по времени для этой задачи"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavte časový limit pre túto úlohu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2019,6 +2129,12 @@
             "value" : "Установите, насколько широким будет ваше окно ToDoBar."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavte, akú šírku chcete pre okno ToDoBar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2045,6 +2161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Установите крайний срок по умолчанию для всех вновь созданных задач."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavte predvolený termín pre všetky novovytvorené úlohy."
           }
         },
         "zh-Hans" : {
@@ -2313,6 +2435,12 @@
             "value" : "ToDo"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úlohy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2341,6 +2469,12 @@
             "value" : "ToDoBar"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ToDoBar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2364,6 +2498,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twitter"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twitter"
